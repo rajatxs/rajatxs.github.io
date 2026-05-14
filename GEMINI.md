@@ -20,6 +20,8 @@ Build the project for production:
 ```bash
 npm run build
 ```
+*Note: A static `public/profile.json` is automatically generated from `src/data.ts` during the build process.*
+
 Preview the production build locally:
 ```bash
 npm run preview
