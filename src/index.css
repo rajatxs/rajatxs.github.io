@@ -1,0 +1,14 @@
+/**
+ * File: src/index.css
+ * Author: Rajat Sharma
+ * Date: 2026-05-14
+ * Description: Global styles and Tailwind CSS configuration
+ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	@apply bg-zinc-50 text-zinc-900 dark:bg-zinc-950 dark:text-zinc-100;
+}
