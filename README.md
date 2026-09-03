@@ -1,6 +1,6 @@
 # Profile - Rajat Sharma
 
-A minimalist, high-performance professional profile built with React and Tailwind CSS. This project showcases my contact information, links and interests with a focus on clean architecture and responsive design.
+A minimalist professional profile built with static HTML, CSS and JavaScript. This project showcases my contact information, links and interests with a focus on clean architecture and responsive design.
 
 ## Installation & Setup
 
@@ -19,16 +19,16 @@ Install dependencies
 npm install
 ```
 
-Start the development server
+Serve the site locally
 
 ```bash
-npm run dev
+npm start
 ```
 
-Build for production
+Deploy the site to GitHub Pages
 
 ```bash
-npm run build
+npm run deploy
 ```
 
 ## Author
