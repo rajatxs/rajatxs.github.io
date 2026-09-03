@@ -1,41 +1,62 @@
 {
-	"name": "Rajat Sharma",
-	"occupation": "Senior Full Stack Engineer",
-	"location": "Gujarat, India",
-	"email": "rajatxt@proton.me",
-	"bio": "Building digital experiences with focus on performance and accessibility. Passionate about open source and minimalist UI design.",
-	"avatarUrl": "/profile.webp",
-	"interests": ["Next.js", "TypeScript", "Tailwind CSS", "Shadcn UI", "Fastify.js", "Figma", "Go", "Expo", "PostgreSQL", "Docker", "Google Gemini", "Ollama", "n8n"],
-	"links": [
-		{
-			"title": "Portfolio",
-			"tag": "page:portfolio",
-			"url": "https://rajatxs.github.io/portfolio"
-		},
-		{
-			"title": "Figma (@rajatsharma)",
-			"tag": "figma",
-			"url": "https://www.figma.com/@rajatsharma"
-		},
-		{
-			"title": "GitHub (@rajatxs)",
-			"tag": "github",
-			"url": "https://github.com/rajatxs"
-		},
-		{
-			"title": "Gitea (@rajat)",
-			"tag": "gitea",
-			"url": "https://gitea.prodex.cloud/rajat"
-		},
-		{
-			"title": "NPM (@rxpm)",
-			"tag": "npm",
-			"url": "https://www.npmjs.com/~rxpm"
-		},
-		{
-			"title": "Unsplash (@rxua)",
-			"tag": "unsplash",
-			"url": "https://unsplash.com/@rxua"
-		}
-	]
+    "name": "Rajat Sharma",
+    "occupation": "Senior Full Stack Engineer",
+    "location": "Gujarat, India",
+    "email": "rajatxt@proton.me",
+    "bio": "Building digital experiences with focus on performance and accessibility. Passionate about open source and minimalist UI design.",
+    "avatarUrl": "/profile.webp",
+    "interests": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Shadcn UI",
+        "Fastify.js",
+        "Figma",
+        "Go",
+        "Expo",
+        "PostgreSQL",
+        "Docker",
+        "ChatGPT",
+        "Ollama",
+        "n8n",
+        "Tailscale"
+    ],
+    "links": [
+        {
+            "id": "page:portfolio",
+            "title": "Portfolio",
+            "description": "Selected projects and experiments",
+            "url": "https://rajatxs.github.io/portfolio"
+        },
+        {
+            "id": "figma",
+            "title": "Figma (@rajatsharma)",
+            "description": "Design work and UI explorations",
+            "url": "https://www.figma.com/@rajatsharma"
+        },
+        {
+            "id": "github",
+            "title": "GitHub (@rajatxs)",
+            "description": "Open source code and contributions",
+            "url": "https://github.com/rajatxs"
+        },
+        {
+            "id": "gitea",
+            "title": "Gitea (@rajat)",
+            "description": "Private projects and self-hosted work",
+            "url": "https://gitea.prodex.cloud/rajat"
+        },
+        {
+            "id": "npm",
+            "title": "NPM (@rxpm)",
+            "description": "Reusable packages for JavaScript projects",
+            "url": "https://www.npmjs.com/~rxpm"
+        },
+        {
+            "id": "unsplash",
+            "title": "Unsplash (@rxua)",
+            "description": "Photography and visual inspiration",
+            "url": "https://unsplash.com/@rxua"
+        }
+    ]
 }
