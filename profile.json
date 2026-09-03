@@ -16,39 +16,46 @@
         "Expo",
         "PostgreSQL",
         "Docker",
-        "Google Gemini",
+        "ChatGPT",
         "Ollama",
-        "n8n"
+        "n8n",
+        "Tailscale"
     ],
     "links": [
         {
+            "id": "page:portfolio",
             "title": "Portfolio",
-            "tag": "page:portfolio",
+            "description": "Selected projects and experiments",
             "url": "https://rajatxs.github.io/portfolio"
         },
         {
+            "id": "figma",
             "title": "Figma (@rajatsharma)",
-            "tag": "figma",
+            "description": "Design work and UI explorations",
             "url": "https://www.figma.com/@rajatsharma"
         },
         {
+            "id": "github",
             "title": "GitHub (@rajatxs)",
-            "tag": "github",
+            "description": "Open source code and contributions",
             "url": "https://github.com/rajatxs"
         },
         {
+            "id": "gitea",
             "title": "Gitea (@rajat)",
-            "tag": "gitea",
+            "description": "Private projects and self-hosted work",
             "url": "https://gitea.prodex.cloud/rajat"
         },
         {
+            "id": "npm",
             "title": "NPM (@rxpm)",
-            "tag": "npm",
+            "description": "Reusable packages for JavaScript projects",
             "url": "https://www.npmjs.com/~rxpm"
         },
         {
+            "id": "unsplash",
             "title": "Unsplash (@rxua)",
-            "tag": "unsplash",
+            "description": "Photography and visual inspiration",
             "url": "https://unsplash.com/@rxua"
         }
     ]
