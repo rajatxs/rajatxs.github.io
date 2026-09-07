@@ -4,6 +4,8 @@
 
 This is a small static profile site. Runtime files live in `public/`: `index.html` defines the page, `style.css` contains responsive and light/dark theme styling, and `app.js` handles client-side behavior. Profile content is data-driven from `public/profile.json`; `profile.webp` and `favicon.svg` are the site assets. Project metadata and tooling are defined in `package.json`, `package-lock.json`, and `.prettierrc`.
 
+Treat `public/profile.json` as the source of information for the public profile. Keep the profile information presented in `public/index.html` and `public/profile.md` synchronized with it whenever profile data changes.
+
 ## Build, Test, and Development Commands
 
 Install the locked dependencies with:
